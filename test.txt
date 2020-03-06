@@ -39,11 +39,23 @@ Goto https://git-scm.com/ => Select downloads & Install
 Step2: 
 Add your project to git
 
-Step3: Command
+Step3: Commands
 git init
 git status
 git add 
+git commit -m " < message details > "
+git remote add origin https://github.com/cmvzw1212/TEST_GIT
+git push -u origin master
+git log
+git --help
+
+git show => shows the file changes
 
 
+To avoid asking for username and password:
+git config --global user.email "cmvzw1212@gmail.com"
+git config --global user.name "cmvzw1212"
 
+Step4: 
+Adding to remote repository
 

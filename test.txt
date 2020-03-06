@@ -59,3 +59,41 @@ git config --global user.name "cmvzw1212"
 Step4: 
 Adding to remote repository
 
+=================Tutorial5: GIT and GIT HUB Branching and merging:  ===========
+
+1. what are branches?
+2. How to create branch.
+3. how to checkout branch.
+4. How to merge branch to master
+5. how to delete branch (local and remote)
+
+Step1: 
+Create branch
+
+command : git branch "branch Name"
+Step2:
+
+checkout branch
+command: git checkout <branchName>
+
+Step3:
+merge new branch in master branch
+git merge "BranchName"
+
+Step4:
+Delete the branch
+git branch -d "BranchName" => Delete from Local
+git push origin --delete "BranchName" => delete from remote
+
+
+=====================================
+
+
+
+
+
+
+
+
+
+

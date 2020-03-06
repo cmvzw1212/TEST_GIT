@@ -1,0 +1,49 @@
+TUTORIAL1 GIT =========
+1. what is GIT
+2. what is GIT HUB.
+3. Is GIT related to GIT HUB
+4. A Simple work flow.
+
+GIT -  VCS (Version Control System)
+	=> To track changes in files/folder
+	=> To collaborate in teams
+	
+	2 types VCS
+	centralized and distributed VCS
+	Centrallized: (Reporsitory => workstation1 => workstatione => workstation3)
+	
+	Distributed: (Reporsitory => Reporsitory1 =>Reporsitory2 => Reporsitory3 => workstation1 => workstation2 => workstation3)
+	
+	GIT is distributed Version Control System
+
+what is GIT HUB.
+
+GIT HUB is as website to upload your repostories online.
+Advangates:
+-It provies backup 
+- provides visual interface to your repository
+- it makes collaboration easier
+
+GIT != GIT HUB
+
+TUTORIAL3 Getting started in Windows ====================
+
+1. How to install git on windows
+2. Adding project to git for tracking.
+3. git commands
+4. Pushing project to remote repository.
+
+Step1: 
+Goto https://git-scm.com/ => Select downloads & Install
+
+Step2: 
+Add your project to git
+
+Step3: Command
+git init
+git status
+git add 
+
+
+
+
